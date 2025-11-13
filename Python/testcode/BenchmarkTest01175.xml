@@ -1,0 +1,7 @@
+<test-metadata>
+  <benchmark-version>0.1</benchmark-version>
+  <category>codeinj</category>
+  <test-number>01175</test-number>
+  <vulnerability>false</vulnerability>
+  <cwe>94</cwe>
+</test-metadata>

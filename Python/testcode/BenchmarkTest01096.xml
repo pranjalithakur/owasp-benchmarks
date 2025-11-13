@@ -1,0 +1,7 @@
+<test-metadata>
+  <benchmark-version>0.1</benchmark-version>
+  <category>redirect</category>
+  <test-number>01096</test-number>
+  <vulnerability>false</vulnerability>
+  <cwe>601</cwe>
+</test-metadata>
